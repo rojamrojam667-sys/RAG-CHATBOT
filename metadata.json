@@ -1,0 +1,6 @@
+{
+  "name": "Intelligent Multi-Document RAG Chatbot with AI-Powered Document Analysis",
+  "description": "Production-grade MCA AI final-year project featuring hybrid vector/keyword retrieval, anti-hallucination guardrails, multi-document management, conversation memory, and academic documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
